@@ -12,9 +12,9 @@
 🚀 Full Stack Developer | Backend Enthusiast | Freelancer
 </h3>
 
-<p align="center">
+<!-- <p align="center">
 First Year B.Tech CSE Student at <b>G. B. Pant Institute of Engineering & Technology</b>
-</p>
+</p> -->
 
 <p align="center">
 Passionate about scalable backend systems, modern web applications, system design, and production-grade development.
